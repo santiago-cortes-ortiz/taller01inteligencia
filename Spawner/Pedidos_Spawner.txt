@@ -1,0 +1,7 @@
+id_pedido,Numbers,Sequence,1|0|1|0
+fecha,Time,Date,43627|44434|3|False|d-M-yyyy|h:nn:ss
+precio_envio,Numbers,Real,1|60|2
+precio_impuestos,Numbers,Real,1|30|2
+guia,Text,Fixed-length String,10|10|True|True|False|False
+cuentas_amazonid_cuenta,Numbers,Integer,1|5
+courierid_courier,Numbers,Integer,1|7

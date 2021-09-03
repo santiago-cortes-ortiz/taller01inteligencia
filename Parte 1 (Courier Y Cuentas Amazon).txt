@@ -1,0 +1,16 @@
+insert into courier values (1, 'Amazon Shipping');
+insert into courier values (2, 'Fedex');
+insert into courier values (3, 'DHL');
+insert into courier values (4, 'UPS');
+insert into courier values (5, 'Deprisa');
+insert into courier values (6, 'Servientrega');
+insert into courier values (7, 'Pasarex');
+
+insert into cuentas_amazon values(1,'Penelope Vacile', 'penelopevacile23@hotmail.com', 'Manz C Casa 3', 'San Francisco', 730001, 3187031441, 'Ibague', 'Tolima');
+insert into cuentas_amazon values(2,'Jeisson Corteza', 'j.cortez23409@hotmail.com', 'Calle 45 No 2', 'Boqueron', 730021, 3209182211, 'Ibague', 'Tolima');
+insert into cuentas_amazon values(3,'Valfuryx Paramo', 'val.34232@hotmail.com', 'Casa 23 Conjunto El Palmar', '', 730031, 3155938811, 'Ibague', 'Tolima');
+insert into cuentas_amazon values(4,'Michin Bravo', 'michinthecat@hotmail.com', 'Via El Totumo Hacienda 23', 'Totumo', 730051, 3118271122, 'Ibague', 'Tolima');
+insert into cuentas_amazon values(5,'Antonio Rico', 'a.rico32@hotmail.com', 'A4 Apto 403 Palemritas', '', 730561, 3201928844, 'Ibague', 'Tolima');
+
+
+ALTER SESSION SET NLS_DATE_FORMAT = 'DD-MM-YYYY';

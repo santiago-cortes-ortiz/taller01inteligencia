@@ -1,0 +1,4 @@
+id_producto,Numbers,Sequence,1|0|1|0
+nombre,Text,Random-length String,8|10|True|False|True|False
+precio_venta,Numbers,Real,10000|2000000|1
+upc,Text,Fixed-length String,15|15|False|True|False|False
